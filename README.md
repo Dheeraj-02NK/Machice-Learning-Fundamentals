@@ -1,18 +1,18 @@
-# Machice-Learning
+## Machice-Learning
 Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. ML algorithms learn from patterns and examples in data to automatically improve their performance over time.
 
 There are several types of machine learning algorithms, as Follows:
 
-## Supervised Learning:
+#### Supervised Learning:
 In supervised learning, the algorithm learns from labeled examples in the training data to make predictions or classify new, unseen data. It requires input data (features) and corresponding output labels. Common supervised learning algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines.
 
-## Unsupervised Learning: 
+#### Unsupervised Learning: 
 Unsupervised learning algorithms work with unlabeled data and aim to discover patterns or structures within the data. They are used for tasks such as clustering (grouping similar data points together) and dimensionality reduction. Examples of unsupervised learning algorithms include K-means clustering, hierarchical clustering, and principal component analysis (PCA).
 
-## Semi-Supervised Learning: 
+#### Semi-Supervised Learning: 
 Semi-supervised learning algorithms use a combination of labeled and unlabeled data. They leverage the available labeled data to guide the learning process and improve the performance of the model. Semi-supervised learning is useful when labeling data is costly or time-consuming.
 
-## Reinforcement Learning: 
+#### Reinforcement Learning: 
 Reinforcement learning involves an agent interacting with an environment and learning through trial and error to maximize a reward signal. The agent takes actions in the environment, receives feedback (rewards or penalties), and adjusts its actions to achieve the maximum cumulative reward. Reinforcement learning is often used in tasks such as game playing, robotics, and autonomous systems.
 
 ## Deep Learning: 
