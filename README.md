@@ -1,7 +1,7 @@
 ### Machice-Learning
 Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. ML algorithms learn from patterns and examples in data to automatically improve their performance over time.
 
-There are several types of machine learning algorithms, as Follows
+There are several types of machine learning algorithms, as Follow:
 
 #### Supervised Learning:
 In supervised learning, the algorithm learns from labeled examples in the training data to make predictions or classify new, unseen data. It requires input data (features) and corresponding output labels. Common supervised learning algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines.
