@@ -1,5 +1,5 @@
 ### Machice-Learning
-Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. ML algorithms learn from patterns and examples in data to automatically improve their performance over time.
+Machine Learning is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. ML algorithms learn from patterns and examples in data to automatically improve their performance over time.
 
 There are several types of machine learning algorithms, as Follow:
 
